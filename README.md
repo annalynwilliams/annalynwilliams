@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @annalynwilliams
 - 👀 I’m a neuroscience student interested in developing neural networks
-- 🌱 I have experience with data science using MATLAB, and I'm now learning Python for machine learning
-- 💞️ I’m looking to collaborate on projects to develop simple neural networks
+- 🌱 I have experience with data science using MATLAB
+- 💞️ I'm now learning Python3 and a taking deep learning course
 - 📫 You can reach me at annawilliams2022@icloud.com
